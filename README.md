@@ -1,8 +1,10 @@
 ## Bem-vindo(a), eu me chamo
 
-![gitartwork](.\imagens\nomeGledson.svg)
+<img src="./images/nomeGledson.svg">
 
 # Gosto muito da área de programação e tecnologia!
+
+<img src="https://github.com/GledsonVC/GledsonVC/blob/output/github-contribution-grid-snake.svg">
 
 ![snake gif](https://github.com/GledsonVC/GledsonVC/blob/output/github-contribution-grid-snake.svg)
 
